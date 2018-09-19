@@ -25,7 +25,7 @@ Enter the Tip number and title from the PAD Quick Ref and explain why.
 
 ---
 
-**Q5.**
+**Q5.** If you want to be an effective programmer what does _7 Habits of Highly Effective Developers_ recommend you to do?
 
 
 
@@ -63,3 +63,11 @@ Enter the Tip number and title from the PAD Quick Ref and explain why.
 
 
 **A5.**
+
+- You shouldn't focus on things that you can't control.
+- Have a specific goals in mind about your future.
+- Prioritise what's important.
+- You should think about the overall benefits.
+- You need to be a good listener and really understand your colleagues.
+- Helping your team to be more synergetic.
+- You need to have a good habit.
